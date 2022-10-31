@@ -1,0 +1,12 @@
+h3 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1f174a;
+    text-decoration: underline;
+}
+.example {
+    opacity: 0.6;
+}
+.info {
+    font-size: 20px;
+}

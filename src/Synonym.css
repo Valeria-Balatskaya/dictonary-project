@@ -1,0 +1,14 @@
+li {
+    display: inline-block;
+    margin-right: 30px;
+    border: 1px solid rgba(128, 128, 128, 0.335);
+    margin-bottom: 10px;
+    border-radius: 15px;
+    padding: 5px;
+}
+ul {
+    margin: 30px 0px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #d1212dd7;
+}
