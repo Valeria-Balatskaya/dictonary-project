@@ -1,4 +1,4 @@
-a {
+.audio {
     font-size: 24px;
     font-weight: 700;
     text-decoration: none;
@@ -8,9 +8,10 @@ a {
     margin-right: 10px;
     color: #1f174a;;
 }
-a:hover {
+.audio:hover {
     color: #1f174a;
     background-color: #a599dd21;
+    transition: ease-in-out 300ms;
 }
 .trns {
     font-weight: 800;

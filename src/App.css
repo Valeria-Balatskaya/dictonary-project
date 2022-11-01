@@ -10,6 +10,7 @@ h1 {
 .App-footer {
   text-align: center;
   margin: 30px 0px;
+  color: aliceblue;
 
 }
 body {
@@ -19,4 +20,13 @@ body {
   max-width: 700px;
   display: block;
   margin: 0 auto;
+}
+.ftr {
+  color: #d1212d;
+  text-decoration: none;
+  font-weight: 500;
+}
+.ftr:hover {
+  color: aliceblue;
+  transition: ease-in-out 300ms;
 }

@@ -12,7 +12,8 @@ export default function App() {
         <Dictionary defaultKeyword="night" />
        </main>
        <footer className='App-footer'>
-        Coded by Valeria Balatska
+        Coded by {" "}
+        <a href="https://github.com/Valeria-Balatskaya/dictonary-project" target="_blank" rel="noreferrer" className='ftr'>Valeria Balatska</a>
        </footer>
        </div>
     </div>
